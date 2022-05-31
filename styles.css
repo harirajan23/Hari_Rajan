@@ -22,9 +22,9 @@ span{
 }
 
 .top-cloud{
-  position:absolute;
-  top:100px;
-  right: 400px;
+  position:static;
+  padding-left: 20pc;
+  margin-left: 20pc;
 }
 
 .bottom-cloud{
