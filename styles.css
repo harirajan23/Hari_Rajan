@@ -86,8 +86,11 @@ span{
 }
 
 .contact-me{
-  padding-bottom: 50px;
-  line-height: 2;
+  font-weight: bold;
+  text-align: center;
+  margin: auto 1% ;
+  padding-bottom: 55px;
+  width: 100%;
 }
 
 
